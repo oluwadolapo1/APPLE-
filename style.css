@@ -1,0 +1,249 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #161617cc;
+}
+
+nav ul{
+    display: flex;
+    list-style: none;
+    gap: 130px;
+    padding: 15px;
+    color: #ffffffa9;
+}
+
+.bground1{
+    background-image: url(image/hero_iphone16pro_avail__fnf0f9x70jiy_large.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+h1{
+    color: #ffffff;
+    text-align: center;
+    padding: 40px;
+    font-size: 55px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button{
+    background-color: #0077ed;
+    color: #ffffff;
+    width: 150px;
+    height: 40px;
+    border-radius: 25px;
+    border: none;
+    font-size: 20px;
+    padding: 10px 20px;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 600px;
+    margin-top: 370px;
+}
+
+.bground2{
+    background-image: url(image/hero_iphone16_avail__euwzls69btea_large.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.bground3{
+    background-image: url(image/hero_macbook_air_m3__cp4t7pn8zqaa_large.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+h2{
+    color: black;
+    text-align: center;
+    padding: 40px;
+    font-size: 55px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3{
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    margin-top: -10px;
+    padding: 5px 4px;
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.butt1{
+    background-color: rgba(0, 119, 237);
+    color: rgb(255, 255, 255);
+    width: 150px;
+    height: 40px;
+    border-radius: 25px;
+    border: none;
+    font-size: 20px;
+    padding: 10px 20px;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 600px;
+    margin-top: 15px;
+}
+
+.bground4{
+    background-image: url(image/promo_ipadpro\ black__ch217v9v7no2_large.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.bground5{
+    background-image: url(image/promo_ipadair__cu1bnxi7uuwm_large.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.bground45{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    margin-right: 10px;
+}
+
+.divimg2{
+    margin-top: 39px;
+    margin-left: 200px;
+}
+
+.bground6{
+    background-image: url(image/promo_mbp__ek7p477bkp6q_large.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.bground7{
+    background-image: url(image/promo_ipad__fioegapg12qi_large.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.bground67{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    margin-right: 10px;
+}
+
+h4{
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 4px 4px;
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.butt2{
+    background-color: rgba(0, 119, 237);
+    color: rgb(255, 255, 255);
+    width: 150px;
+    height: 40px;
+    border-radius: 25px;
+    border: none;
+    font-size: 20px;
+    padding: 10px 20px;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 250px;
+    margin-top: 2px;
+}
+
+.h44{
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    margin-top: 40px;
+    padding: 4px 4px;
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.butt3{
+    background-color: #000000;
+    color: #ffffff;
+    width: 150px;
+    height: 40px;
+    border-radius: 25px;
+    border: none;
+    font-size: 20px;
+    padding: 10px 20px;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 250px;
+    margin-top: 2px;
+}
+
+.h11{
+    color: #000000;
+    text-align: center;
+    padding: 40px 30px;
+    font-size: 55px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.butt4{
+    background-color: rgba(0, 119, 237);
+    color: #ffffff;
+    width: 150px;
+    height: 40px;
+    border-radius: 25px;
+    border: none;
+    font-size: 20px;
+    padding: 10px 20px;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 250px;
+    margin-top: 2px;
+}
+
+.link{
+    background-color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 12px;
+
+}
+
+.footer{
+    display: flex;
+    color: white;
+    padding-left: 90px;
+    justify-content: space-around;
+
+}
+
+@media (max-width: 880px) {
+    nav{
+        display: block;
+    }
+
+    footer(
+        margin: 10px;
+    )
+    
+}
